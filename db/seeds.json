@@ -5,8 +5,9 @@
       "name": "Work on phase 2 project",
       "type": "Flatiron Class",
       "start": "09:00",
-      "end": "10:00",
-      "date": "2023-04-07",
+      "hours": "10:00",
+      "dateStartStart": "2023-04-07",
+      "dateStartEnd": "2023-04-07",
       "user": "John"
     },
     {
@@ -15,7 +16,8 @@
       "type": "Exercise",
       "start": "08:00",
       "end": "09:00",
-      "date": "2023-04-07",
+      "dateStart": "2023-04-07",
+      "dateStartEnd": "2023-04-07",
       "user": "John"
     },
     {
@@ -24,7 +26,8 @@
       "type": "Exercise",
       "start": "07:00",
       "end": "08:00",
-      "date": "2023-04-07",
+      "dateStart": "2023-04-07",
+      "dateStartEnd": "2023-04-07",
       "user": "John"
     },
     {
@@ -33,7 +36,8 @@
       "type": "Sleep",
       "start": "22:00",
       "end": "07:00",
-      "date": "2023-04-07",
+      "dateStart": "2023-04-07",
+      "dateStartEnd": "2023-04-07",
       "user": "Stella"
     }
   ]
