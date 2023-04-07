@@ -5,9 +5,8 @@
       "name": "Work on phase 2 project",
       "type": "Flatiron Class",
       "start": "09:00",
-      "hours": "10:00",
-      "dateStartStart": "2023-04-07",
-      "dateStartEnd": "2023-04-07",
+      "dateStart": "2023-04-07",
+      "length": 1,
       "user": "John"
     },
     {
@@ -15,9 +14,8 @@
       "name": "Workout",
       "type": "Exercise",
       "start": "08:00",
-      "end": "09:00",
       "dateStart": "2023-04-07",
-      "dateStartEnd": "2023-04-07",
+      "length": 1,
       "user": "John"
     },
     {
@@ -25,9 +23,8 @@
       "name": "Walk dog",
       "type": "Exercise",
       "start": "07:00",
-      "end": "08:00",
       "dateStart": "2023-04-07",
-      "dateStartEnd": "2023-04-07",
+      "length": 1,
       "user": "John"
     },
     {
@@ -35,9 +32,8 @@
       "name": "Go to bed",
       "type": "Sleep",
       "start": "22:00",
-      "end": "07:00",
       "dateStart": "2023-04-07",
-      "dateStartEnd": "2023-04-07",
+      "length": 8,
       "user": "Stella"
     }
   ]
