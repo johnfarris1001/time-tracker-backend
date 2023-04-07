@@ -4,29 +4,37 @@
       "id": 1,
       "name": "Work on phase 2 project",
       "type": "Flatiron Class",
-      "time": "04/07/2023 09:00 AM",
+      "start": "09:00",
+      "end": "10:00",
+      "date": "2023-04-07",
       "user": "John"
     },
     {
       "id": 2,
       "name": "Workout",
       "type": "Exercise",
-      "time": "04/07/2023 08:00 AM",
+      "start": "08:00",
+      "end": "09:00",
+      "date": "2023-04-07",
       "user": "John"
     },
     {
       "id": 3,
       "name": "Walk dog",
       "type": "Exercise",
-      "time": "04/07/2023 07:00 AM",
+      "start": "07:00",
+      "end": "08:00",
+      "date": "2023-04-07",
       "user": "John"
     },
     {
       "id": 4,
       "name": "Go to bed",
       "type": "Sleep",
-      "time": "04/06/2023 11:00 PM",
-      "user": "John"
+      "start": "22:00",
+      "end": "07:00",
+      "date": "2023-04-07",
+      "user": "Stella"
     }
   ]
 }
