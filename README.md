@@ -1,7 +1,5 @@
 # JSON Server Template
 
-check change
-
 ## Setup
 
 Fork and clone this repo. Then install the dependencies by running:
