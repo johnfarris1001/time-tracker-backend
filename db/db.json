@@ -6,7 +6,7 @@
       "type": "Flatiron Class",
       "start": "09:00",
       "dateStart": "2023-04-07",
-      "length": 1,
+      "length": 4.5,
       "user": "John"
     },
     {
@@ -35,6 +35,105 @@
       "dateStart": "2023-04-07",
       "length": 8,
       "user": "Stella"
+    },
+    {
+      "user": "Cecilia",
+      "dateStart": "2023-04-04",
+      "start": "12:30",
+      "length": 0.5,
+      "name": "Lunch",
+      "type": "Eating",
+      "id": 5
+    },
+    {
+      "user": "Cecilia",
+      "dateStart": "2023-04-11",
+      "start": "22:05",
+      "length": 1.75,
+      "name": "Shower",
+      "type": "Grooming",
+      "id": 6
+    },
+    {
+      "user": "John",
+      "dateStart": "2023-04-13",
+      "start": "18:15",
+      "length": 5.75,
+      "name": "Study",
+      "type": "Class",
+      "id": 7
+    },
+    {
+      "user": "Cecilia",
+      "dateStart": "2023-04-13",
+      "start": "19:30",
+      "length": 3,
+      "name": "Lunch",
+      "type": "Eating",
+      "id": 8
+    },
+    {
+      "user": "Tilly",
+      "name": "Nap",
+      "type": "Sleep",
+      "start": "13:00",
+      "dateStart": "2023-04-15",
+      "length": "0.25",
+      "id": 9
+    },
+    {
+      "user": "John",
+      "dateStart": "2023-04-07",
+      "start": "13:30",
+      "length": 3,
+      "name": "Write proposal",
+      "type": "Work",
+      "id": 10
+    },
+    {
+      "user": "John",
+      "dateStart": "2023-04-07",
+      "start": "16:30",
+      "length": 1.5,
+      "name": "Rest and decompress",
+      "type": "Leisure",
+      "id": 11
+    },
+    {
+      "user": "Spot",
+      "dateStart": "2023-04-17",
+      "start": "07:00",
+      "length": 1,
+      "name": "Eat Breakfast",
+      "type": "Meal",
+      "id": 12
+    },
+    {
+      "user": "Spot",
+      "dateStart": "2023-04-17",
+      "start": "09:00",
+      "length": 8,
+      "name": "Work",
+      "type": "Work",
+      "id": 14
+    },
+    {
+      "user": "Spot",
+      "name": "Shower and Get Ready for Bed",
+      "type": "Sleep",
+      "start": "22:45",
+      "dateStart": "2023-04-17",
+      "length": "0.00",
+      "id": 15
+    },
+    {
+      "user": "John",
+      "name": "",
+      "type": "",
+      "start": "02:60",
+      "dateStart": "2023-04-26",
+      "length": "running...",
+      "id": 16
     }
   ]
 }
